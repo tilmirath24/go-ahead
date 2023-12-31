@@ -15,10 +15,10 @@
 
   <h1 style="text-align:center;">Time Management</h1>
 
-  <a href="https://ouhassi.github.io/stopwatch">
+ 
     <h3 style="text-align:center;">My Stopwatch</h3>
     <img src="images/stopwatch.png">
-    <a href="index.html" class="button">رجوع</a>
+    <a href="index.html" class="button">PRECEDENT</a>
 
 </body>
 
